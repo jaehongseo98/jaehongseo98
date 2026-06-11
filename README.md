@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I want to be a front-end developer.
+## I want to be a back-end developer.
 
 <div align=center>
 
